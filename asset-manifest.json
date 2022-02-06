@@ -1,19 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ded43e8.css",
-    "main.js": "/static/js/main.8da45767.js",
+    "main.css": "/static/css/main.36622f21.css",
+    "main.js": "/static/js/main.b77142aa.js",
     "static/js/787.63daa650.chunk.js": "/static/js/787.63daa650.chunk.js",
-    "static/media/dev.gif": "/static/media/dev.40a0346bb60f16732b9d.gif",
+    "static/media/Magazine2020.pdf": "/static/media/Magazine2020.10ff59ea4d07d86f9ce1.pdf",
+    "static/media/dev.gif": "/static/media/dev.a9f9440ab919dbd475f5.gif",
     "static/media/work.gif": "/static/media/work.c355e9f9b74306d9d010.gif",
+    "static/media/1.1.png": "/static/media/1.1.f67bd7474d6e8c95ce84.png",
+    "static/media/1.2.png": "/static/media/1.2.9b5a9107bec1ba3ca474.png",
     "static/media/logo.png": "/static/media/logo.5e756165fd93c242a6f0.png",
+    "static/media/1.3.png": "/static/media/1.3.67c0a12b448ea5dad660.png",
+    "static/media/2.1.png": "/static/media/2.1.ef04da8e95f4c22781c0.png",
+    "static/media/2.2.png": "/static/media/2.2.348da5763f951bb7e380.png",
+    "static/media/3.png": "/static/media/3.070f1e750d79c8a03062.png",
     "static/media/path.png": "/static/media/path.97db70189653532e79ea.png",
+    "static/media/rgi.png": "/static/media/rgi.dc467c7cdd5930bd83e0.png",
     "index.html": "/index.html",
-    "main.1ded43e8.css.map": "/static/css/main.1ded43e8.css.map",
-    "main.8da45767.js.map": "/static/js/main.8da45767.js.map",
+    "main.36622f21.css.map": "/static/css/main.36622f21.css.map",
+    "main.b77142aa.js.map": "/static/js/main.b77142aa.js.map",
     "787.63daa650.chunk.js.map": "/static/js/787.63daa650.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ded43e8.css",
-    "static/js/main.8da45767.js"
+    "static/css/main.36622f21.css",
+    "static/js/main.b77142aa.js"
   ]
 }
